@@ -10,6 +10,7 @@ Generative AI Engineer. I build LLM agents, RAG systems and the evaluations that
 
 | Project | What it is |
 |---|---|
+| [ai-waiter (Tableside)](https://github.com/Mandy8639/ai-waiter) | An AI waiter for restaurants, live in production: diners scan a QR code, order by chatting with a LangGraph agent, and pay by card through Stripe Connect, while the kitchen works from a live order board. Next.js, TypeScript, Supabase/PostgreSQL. [tableside.menu](https://tableside.menu) |
 | [text-to-sql-agent](https://github.com/Mandy8639/text-to-sql-agent) | Ask a business question in plain English, get a validated PostgreSQL query, a chart and an explanation. Claude, pgvector schema retrieval, self-correction, refusal handling, and a benchmark run in CI. [Live demo](https://text-to-sql-agent-8639.streamlit.app) |
 | [mini-agent-memory](https://github.com/Mandy8639/mini-agent-memory) | A small reproduction of an agent-memory stack: transcripts, notes, a wiki and an offline "dreaming" pass, evaluated across four conditions. |
 | [fulfillment-causality-engine](https://github.com/Mandy8639/fulfillment-causality-engine) | Traces fulfillment exceptions back to their most likely upstream cause on synthetic event data, evaluated against counterfactual ground truth. |
